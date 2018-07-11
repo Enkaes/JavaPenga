@@ -11,7 +11,7 @@ public class ExercisesTernaryIfElseSwitch {
 
 
     @Test
-    public void numberOfCatsTernary() {                    //ternary operators   abcd
+    public void numberOfCatsTernary() {                    //ternary operators
 
 
         Cats cats = new Cats(2);
