@@ -15,8 +15,8 @@ public class ArraysLoopsStuff {
     int zeroLengthArray[] = {};                       //empty arrays
     int differentZeroLenthArray[] = new int[0];
 
-//    int uninitializedArray[];  // array declared for later initialization, not that useful, better to initialize as empty
-//    uninitializedArray = new int[10];  // new array allocated to an existing empty array
+//    int uninitializedArray[];   array declared for later initialization, not that useful, better to initialize as empty
+//    uninitializedArray = new int[10];   new array allocated to an existing empty array
 
 
     @Test
