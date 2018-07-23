@@ -34,7 +34,6 @@ public class ExercisesTernaryIfElseSwitch {
     public void catOrCats(){
 
         int numberOfCats = 1;
-
         assertEquals(
                 "cat",
                 (numberOfCats == 1) ? "cat" : "cats");
@@ -49,6 +48,7 @@ public class ExercisesTernaryIfElseSwitch {
                 "cats",
                 (numberOfCats == 1) ? "cat" : "cats");
     }
+
 
 
 
@@ -67,6 +67,8 @@ public class ExercisesTernaryIfElseSwitch {
     }
 
 
+
+
     public String catOrCarsIfElse(int numberOfCats) {
 
         if (numberOfCats == 1) {
@@ -76,7 +78,6 @@ public class ExercisesTernaryIfElseSwitch {
 
         }
     }
-
     @Test
     public void catOrCatsIfElse(){
 

@@ -1,7 +1,7 @@
 package javafortesting.testappenv;
 
 
-public class Cats {                        // kinda redundant, ->ControlFirstTest.catOrCats;
+public class Cats {                        // kinda redundant, ->ExercisesTernaryIfElseSwitch.catOrCats;
 
     private Integer numberOfCats;
 
