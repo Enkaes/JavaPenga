@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9497a82-5ffe-4e37-8a9f-f9420f511da4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/javaForTesting.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javafortesting/testappenv/Cats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javafortesting/testappenv/Cats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/ArraysLoopsStuff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/ArraysLoopsStuff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/ExercisesTernaryIfElseSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/ExercisesTernaryIfElseSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/javafortesting/javaexamples/CollectionsWhileLoopExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/javafortesting/javaexamples/InterfacesExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/ArraysLoopsStuff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/javafortesting/javaexamples/ArraysForLoopsStuff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/ExercisesTernaryIfElseSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/javafortesting/javaexamples/ExercisesTernaryIfElseSwitch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/javafortesting/testappenvtest/ArraysLoopsStuff.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/javafortesting/testappenvtest/ExercisesTernaryIfElseSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/javafortesting/testappenvtest/ExercisesTernaryIfElseSwitch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/javafortesting/testappenvtest/ExercisesTernaryIfElseSwitch.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,23 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ControlFirstTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/firsttests/ControlFirstTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ExercisesTernaryIfElseSwitch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/ExercisesTernaryIfElseSwitch.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/javaexamples/ExercisesTernaryIfElseSwitch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3536">
-              <caret line="215" column="29" selection-start-line="215" selection-start-column="29" selection-end-line="215" selection-end-column="29" />
+            <state relative-caret-position="170">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1228#1229#0" expanded="true" />
@@ -46,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArraysLoopsStuff.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/ArraysLoopsStuff.java">
+      <file leaf-file-name="ArraysForLoopsStuff.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/javaexamples/ArraysForLoopsStuff.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="143" column="9" lean-forward="true" selection-start-line="143" selection-start-column="9" selection-end-line="143" selection-end-column="9" />
+            <state relative-caret-position="-833">
+              <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,18 +47,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javafortesting/testappenv/User.java">
+      <file leaf-file-name="CollectionsWhileLoopExamples.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/javaexamples/CollectionsWhileLoopExamples.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="476">
+              <caret line="82" column="25" lean-forward="true" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="25" />
               <folding>
-                <element signature="e#861#862#0" expanded="true" />
-                <element signature="e#892#893#0" expanded="true" />
-                <element signature="e#926#927#0" expanded="true" />
-                <element signature="e#1063#1064#0" expanded="true" />
-                <element signature="e#1110#1111#0" expanded="true" />
-                <element signature="e#1150#1151#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#954#962#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InterfacesExamples.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/javaexamples/InterfacesExamples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,12 +105,17 @@
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/UserTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/javafortesting/testappenv/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/javafortesting/testappenv/TestAppEnv.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/javafortesting/firsttests/ControlFirstTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/Exercises.java" />
         <option value="$PROJECT_DIR$/src/main/java/javafortesting/testappenv/Cats.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/ExercisesTernaryIfElseSwitch.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/ArraysLoopsStuff.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/ExercisesTernaryIfElseSwitch.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/CollectionsExamples.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/ArraysForLoopsStuff.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/CollectionsWhileLoopExamples.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/javafortesting/firsttests/ControlFirstTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/InterfacesExamples.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/javafortesting/javaexamples/InterfacesExamples.java" />
       </list>
     </option>
   </component>
@@ -212,6 +214,15 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javafortesting" type="462c0819:PsiDirectoryNode" />
+              <item name="javaexamples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaForTesting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaForTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javafortesting" type="462c0819:PsiDirectoryNode" />
               <item name="testappenvtest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -243,23 +254,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArraysLoopsStuff.forEachLoopWithIndex">
+  <component name="RunManager" selected="JUnit.InterfacesExamples.collectionExamplesAndMethods">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="ArraysLoopsStuff.arrayMethodsExamples" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CollectionsWhileLoopExamples.findMondayLocation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesting.testappenvtest.*" />
+          <option name="PATTERN" value="com.javafortesting.javaexamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesting.testappenvtest" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesting.testappenvtest.ArraysLoopsStuff" />
-      <option name="METHOD_NAME" value="arrayMethodsExamples" />
+      <option name="PACKAGE_NAME" value="com.javafortesting.javaexamples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesting.javaexamples.CollectionsWhileLoopExamples" />
+      <option name="METHOD_NAME" value="findMondayLocation" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -270,19 +281,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ArraysLoopsStuff.arrayOfHundredUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CollectionsWhileLoopExamples.simpleDynamicCollection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesting.testappenvtest.*" />
+          <option name="PATTERN" value="com.javafortesting.javaexamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesting.testappenvtest" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesting.testappenvtest.ArraysLoopsStuff" />
-      <option name="METHOD_NAME" value="arrayOfHundredUsers" />
+      <option name="PACKAGE_NAME" value="com.javafortesting.javaexamples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesting.javaexamples.CollectionsWhileLoopExamples" />
+      <option name="METHOD_NAME" value="simpleDynamicCollection" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -293,19 +304,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ArraysLoopsStuff.createArrayOfUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CollectionsWhileLoopExamples.whileLoopExamples" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesting.testappenvtest.*" />
+          <option name="PATTERN" value="com.javafortesting.javaexamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesting.testappenvtest" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesting.testappenvtest.ArraysLoopsStuff" />
-      <option name="METHOD_NAME" value="createArrayOfUsers" />
+      <option name="PACKAGE_NAME" value="com.javafortesting.javaexamples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesting.javaexamples.CollectionsWhileLoopExamples" />
+      <option name="METHOD_NAME" value="whileLoopExamples" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -316,19 +327,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ArraysLoopsStuff.forEachLoopWithIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CollectionsWhileLoopExamples.whileLoopExercise1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesting.testappenvtest.*" />
+          <option name="PATTERN" value="com.javafortesting.javaexamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesting.testappenvtest" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesting.testappenvtest.ArraysLoopsStuff" />
-      <option name="METHOD_NAME" value="forEachLoopWithIndex" />
+      <option name="PACKAGE_NAME" value="com.javafortesting.javaexamples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesting.javaexamples.CollectionsWhileLoopExamples" />
+      <option name="METHOD_NAME" value="whileLoopExercise1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -339,19 +350,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ArraysLoopsStuff.forEachThroughWorkdays" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="InterfacesExamples.collectionExamplesAndMethods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesting.testappenvtest.*" />
+          <option name="PATTERN" value="com.javafortesting.javaexamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesting.testappenvtest" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesting.testappenvtest.ArraysLoopsStuff" />
-      <option name="METHOD_NAME" value="forEachThroughWorkdays" />
+      <option name="PACKAGE_NAME" value="com.javafortesting.javaexamples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesting.javaexamples.InterfacesExamples" />
+      <option name="METHOD_NAME" value="collectionExamplesAndMethods" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -411,19 +422,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.ArraysLoopsStuff.createArrayOfUsers" />
-      <item itemvalue="JUnit.ArraysLoopsStuff.forEachLoopWithIndex" />
-      <item itemvalue="JUnit.ArraysLoopsStuff.arrayOfHundredUsers" />
-      <item itemvalue="JUnit.ArraysLoopsStuff.arrayMethodsExamples" />
-      <item itemvalue="JUnit.ArraysLoopsStuff.forEachThroughWorkdays" />
+      <item itemvalue="JUnit.CollectionsWhileLoopExamples.simpleDynamicCollection" />
+      <item itemvalue="JUnit.CollectionsWhileLoopExamples.findMondayLocation" />
+      <item itemvalue="JUnit.CollectionsWhileLoopExamples.whileLoopExercise1" />
+      <item itemvalue="JUnit.CollectionsWhileLoopExamples.whileLoopExamples" />
+      <item itemvalue="JUnit.InterfacesExamples.collectionExamplesAndMethods" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ArraysLoopsStuff.forEachLoopWithIndex" />
-        <item itemvalue="JUnit.ArraysLoopsStuff.forEachThroughWorkdays" />
-        <item itemvalue="JUnit.ArraysLoopsStuff.arrayMethodsExamples" />
-        <item itemvalue="JUnit.ArraysLoopsStuff.arrayOfHundredUsers" />
-        <item itemvalue="JUnit.ArraysLoopsStuff.createArrayOfUsers" />
+        <item itemvalue="JUnit.InterfacesExamples.collectionExamplesAndMethods" />
+        <item itemvalue="JUnit.CollectionsWhileLoopExamples.whileLoopExamples" />
+        <item itemvalue="JUnit.CollectionsWhileLoopExamples.findMondayLocation" />
+        <item itemvalue="JUnit.CollectionsWhileLoopExamples.whileLoopExercise1" />
+        <item itemvalue="JUnit.CollectionsWhileLoopExamples.simpleDynamicCollection" />
       </list>
     </recent_temporary>
   </component>
@@ -441,35 +452,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArraysLoopsStuff_arrayOfHundredUsers - 2018.07.23 at 11h 54m 46s.xml">
-      <configuration name="ArraysLoopsStuff.arrayOfHundredUsers" configurationId="JUnit" />
+    <history-entry file="CollectionsWhileLoopExamples_whileLoopExercise1 - 2018.07.24 at 11h 43m 03s.xml">
+      <configuration name="CollectionsWhileLoopExamples.whileLoopExercise1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArraysLoopsStuff_arrayOfHundredUsers - 2018.07.23 at 12h 07m 36s.xml">
-      <configuration name="ArraysLoopsStuff.arrayOfHundredUsers" configurationId="JUnit" />
+    <history-entry file="CollectionsWhileLoopExamples_whileLoopExercise1 - 2018.07.24 at 11h 50m 34s.xml">
+      <configuration name="CollectionsWhileLoopExamples.whileLoopExercise1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArraysLoopsStuff_arrayMethodsExamples - 2018.07.23 at 12h 39m 02s.xml">
-      <configuration name="ArraysLoopsStuff.arrayMethodsExamples" configurationId="JUnit" />
+    <history-entry file="CollectionsWhileLoopExamples_findMondayLocation - 2018.07.24 at 11h 52m 01s.xml">
+      <configuration name="CollectionsWhileLoopExamples.findMondayLocation" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArraysLoopsStuff_arrayMethodsExamples - 2018.07.23 at 12h 56m 58s.xml">
-      <configuration name="ArraysLoopsStuff.arrayMethodsExamples" configurationId="JUnit" />
+    <history-entry file="CollectionsWhileLoopExamples_whileLoopExamples - 2018.07.24 at 11h 54m 17s.xml">
+      <configuration name="CollectionsWhileLoopExamples.whileLoopExamples" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArraysLoopsStuff_arrayMethodsExamples - 2018.07.23 at 12h 57m 18s.xml">
-      <configuration name="ArraysLoopsStuff.arrayMethodsExamples" configurationId="JUnit" />
+    <history-entry file="CollectionsWhileLoopExamples_whileLoopExamples - 2018.07.24 at 11h 54m 25s.xml">
+      <configuration name="CollectionsWhileLoopExamples.whileLoopExamples" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArraysLoopsStuff_arrayMethodsExamples - 2018.07.23 at 13h 45m 48s.xml">
-      <configuration name="ArraysLoopsStuff.arrayMethodsExamples" configurationId="JUnit" />
+    <history-entry file="InterfacesExamples_collectionExamplesAndMethods - 2018.07.24 at 13h 26m 22s.xml">
+      <configuration name="InterfacesExamples.collectionExamplesAndMethods" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArraysLoopsStuff_forEachThroughWorkdays - 2018.07.23 at 14h 34m 55s.xml">
-      <configuration name="ArraysLoopsStuff.forEachThroughWorkdays" configurationId="JUnit" />
+    <history-entry file="InterfacesExamples_collectionExamplesAndMethods - 2018.07.24 at 13h 31m 34s.xml">
+      <configuration name="InterfacesExamples.collectionExamplesAndMethods" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArraysLoopsStuff_forEachLoopWithIndex - 2018.07.23 at 14h 36m 39s.xml">
-      <configuration name="ArraysLoopsStuff.forEachLoopWithIndex" configurationId="JUnit" />
+    <history-entry file="InterfacesExamples_collectionExamplesAndMethods - 2018.07.24 at 13h 33m 07s.xml">
+      <configuration name="InterfacesExamples.collectionExamplesAndMethods" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArraysLoopsStuff_forEachLoopWithIndex - 2018.07.23 at 14h 36m 57s.xml">
-      <configuration name="ArraysLoopsStuff.forEachLoopWithIndex" configurationId="JUnit" />
+    <history-entry file="InterfacesExamples_collectionExamplesAndMethods - 2018.07.24 at 13h 34m 04s.xml">
+      <configuration name="InterfacesExamples.collectionExamplesAndMethods" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArraysLoopsStuff_forEachLoopWithIndex - 2018.07.23 at 14h 42m 05s.xml">
-      <configuration name="ArraysLoopsStuff.forEachLoopWithIndex" configurationId="JUnit" />
+    <history-entry file="InterfacesExamples_collectionExamplesAndMethods - 2018.07.24 at 14h 01m 28s.xml">
+      <configuration name="InterfacesExamples.collectionExamplesAndMethods" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -483,10 +494,10 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32939914" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.29957357" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23497854" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23497854" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32939914" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16257995" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1641791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -505,45 +516,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="10" />
+      <option name="time" value="13" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/TestAppEnvTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javafortesting/testappenv/TestAppEnv.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javafortesting/testappenv/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javafortesting/testappenv/Cats.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/UserTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -571,7 +547,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/ExercisesTernaryIfElseSwitch.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/javaexamples/ExercisesTernaryIfElseSwitch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
@@ -624,7 +600,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/ExercisesTernaryIfElseSwitch.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/javaexamples/ExercisesTernaryIfElseSwitch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
@@ -677,7 +653,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/ExercisesTernaryIfElseSwitch.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/javaexamples/ExercisesTernaryIfElseSwitch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
@@ -730,7 +706,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/ExercisesTernaryIfElseSwitch.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/javaexamples/ExercisesTernaryIfElseSwitch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1700">
           <caret line="100" column="9" lean-forward="true" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
@@ -792,20 +768,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/BetweenPackagesTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/TestAppEnvTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="69" column="38" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -823,16 +785,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/UserTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1921">
@@ -842,16 +794,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javaForTesting.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/firsttests/ControlFirstTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javafortesting/testappenv/Cats.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -871,18 +813,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="138" column="36" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/ExercisesTernaryIfElseSwitch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3536">
-          <caret line="215" column="29" selection-start-line="215" selection-start-column="29" selection-end-line="215" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1228#1229#0" expanded="true" />
-            <element signature="e#1287#1288#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -908,10 +838,113 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/ArraysLoopsStuff.java">
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="143" column="9" lean-forward="true" selection-start-line="143" selection-start-column="9" selection-end-line="143" selection-end-column="9" />
+        <state relative-caret-position="302">
+          <caret line="571" column="6" selection-start-line="571" selection-start-column="6" selection-end-line="571" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="4307" column="30" selection-start-line="4307" selection-start-column="30" selection-end-line="4307" selection-end-column="30" />
+          <folding>
+            <element signature="e#200641#200642#0" expanded="true" />
+            <element signature="e#200682#200683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="1121" column="15" selection-start-line="1121" selection-start-column="15" selection-end-line="1121" selection-end-column="15" />
+          <folding>
+            <element signature="e#43663#43664#0" expanded="true" />
+            <element signature="e#43691#43692#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/firsttests/ControlFirstTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/TestAppEnvTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/testappenvtest/UserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/javaexamples/ExercisesTernaryIfElseSwitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1228#1229#0" expanded="true" />
+            <element signature="e#1287#1288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="165" column="11" selection-start-line="165" selection-start-column="11" selection-end-line="165" selection-end-column="11" />
+          <folding>
+            <element signature="e#6326#6327#0" expanded="true" />
+            <element signature="e#6394#6395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/javaexamples/CollectionsWhileLoopExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="82" column="25" lean-forward="true" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#954#962#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/javaexamples/ArraysForLoopsStuff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-833">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesting/javaexamples/InterfacesExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

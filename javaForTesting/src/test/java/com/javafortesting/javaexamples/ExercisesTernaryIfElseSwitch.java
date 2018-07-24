@@ -1,4 +1,4 @@
-package com.javafortesting.testappenvtest;
+package com.javafortesting.javaexamples;
 
 import javafortesting.testappenv.Cats;
 import org.junit.jupiter.api.Test;
@@ -120,7 +120,6 @@ public class ExercisesTernaryIfElseSwitch {
             assertFalse(truthy);
         }
     }
-
 
 
 
