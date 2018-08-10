@@ -1,7 +1,9 @@
 package com.javafortesting.javaexamples;
 
+import javafortesting.testappenv.User;
 import org.junit.jupiter.api.Test;
 
+import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Collection;
 
@@ -27,7 +29,7 @@ public class InterfacesExamples {
         wholeweek = new ArrayList();                            //and instantiate it with implementation: a class which implements that interface i.e. ArrayList.
 
         Collection<String> samplecollection;                    //collection contains objects by default, not string, int etc.
-        Collection<String> weekdays = new ArrayList();          //try to declare collection as collection of type if all objects will be of same type
+        Collection<String> weekdays = new ArrayList<>();        //try to declare collection as collection of type if all objects will be of same type
 
         weekdays.add("Monday");                                 //add elements to collection
         weekdays.add("Tuesdayy");
@@ -47,22 +49,57 @@ public class InterfacesExamples {
         wholeweek.add("Saturday");
         wholeweek.add("Sunday");
 
+
+
         for(String day : weekdays){
             System.out.println(day);
         }
 
         for( Object day : wholeweek){                         //when iterating over collection without a predeclared type we need an object, not a string or int
-        String outputToString = (String)day;
+        String outputToString = (String)day;                  //casting object to String type - can by avoided when specifying type when declaring
         System.out.println(outputToString);
         }
+
+        String anotherArray[] = new String[wholeweek.size()];       //converting collection to an array with toArray(anArray) call
+        wholeweek.toArray(anotherArray);
+        assertEquals("Monday".length(), anotherArray[0].length());
+
     }
 
     @Test
-    public void emptyingRemovingCollections(){
+    public void createAndManipulateCollectionOfUsers(){
 
+        Collection <User> someusers = new ArrayList<User>();
+
+        assertEquals(0, someusers.size());
+        assertTrue(someusers.isEmpty());
+
+        User Henryk = new User();
+        User Francis = new User();
+
+        ((ArrayList<User>) someusers).add(Henryk);
+        ((ArrayList<User>) someusers).add(Francis);
+
+        assertEquals(2, someusers.size());
+        assertFalse(someusers.isEmpty());
+
+
+        Collection <User> moreusers = new ArrayList<User>();
+
+        User James = new User();
+        User Dantes = new User();
+
+        ((ArrayList<User>) moreusers).add(James);
+        ((ArrayList<User>) moreusers).add(Dantes);
+
+        ((ArrayList<User>) someusers).addAll(moreusers);
+
+        assertTrue(someusers.containsAll(moreusers));
+
+        moreusers.removeAll(someusers);
+        someusers.clear();
 
 
     }
-
 
 }

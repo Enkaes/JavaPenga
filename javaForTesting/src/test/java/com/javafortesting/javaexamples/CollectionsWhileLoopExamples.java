@@ -59,7 +59,6 @@ public class CollectionsWhileLoopExamples {
         }
         assertEquals( 3, forCount, "Monday is at position 3");
 
-
         int loopCount;                                             // integer outside of the loop as it will be incremented in the body
         for(loopCount=0; loopCount <= days.size(); loopCount++){   // for loop iterating over size of the list, break when monday is found
             if(days.get(loopCount).equals("Monday")){
@@ -83,9 +82,10 @@ public class CollectionsWhileLoopExamples {
         int docount = -1;
         do{
             docount++;
-        } while (!days.get(docount).equals("Monday"));                // evaluates if expression at the bottom of the loop is true instead of the top
+        } while (!days.get(docount).equals("Monday"));                // evaluates if expression at the bottom of the loop is true instead of the top one
         assertEquals(3, docount);                           // the statements within the do block are always executed at least once
 
+        assertEquals(21, docount );
     }
 
     @Test

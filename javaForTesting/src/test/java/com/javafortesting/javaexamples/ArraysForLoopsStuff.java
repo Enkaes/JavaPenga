@@ -79,19 +79,19 @@ public class ArraysForLoopsStuff {
 
         String days="";
 
-        for( String workday : workdays){     // for( variable : collection) { do something }
-            days = days + "|" + workday;     // creates variable and assignes items from collection, one after another
+        for( String workday : workdays){            // for( variable : collection) { do something }
+            days = days + "|" + workday;            // takes variable and assignes items from collection, one after another
         }
 
         assertEquals("|Monday|Tuesday|Wednesday|Thursday|Friday", days);
     }
 
     @Test
-    public void forLoopThroughWorkdays(){       //for loop
+    public void forLoopThroughWorkdays(){            //for loop
 
         String days="";
 
-        for(int i=0; i<5; i++){                 //  for(statement with initial value; loop condition; executed after each loop){ do something }
+        for(int i=0; i<5; i++){                       //  for(statement with initial value; loop condition; executed after each loop){ do something }
             days = days + "|" + workdays[i];
         }
 
@@ -103,7 +103,7 @@ public class ArraysForLoopsStuff {
 
         int dayindex = 0;
 
-        for( String workday : workdays){
+        for( String workday : workdays) {
             System.out.println("found " + workday + " at position " + dayindex);
             dayindex++;
         }
@@ -119,7 +119,7 @@ public class ArraysForLoopsStuff {
          users[userIndex] = new User("user" + userId, "password" + userId);
      }
 
-     for( User aUser : users){                                                                    // check if array got created properly
+     for( User aUser : users){                                                                     // check if array got created properly
          System.out.println(aUser.getUsername()+ "," + aUser.getPassword() );
      }
 

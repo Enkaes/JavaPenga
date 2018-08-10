@@ -85,10 +85,6 @@ public class ExercisesTernaryIfElseSwitch {
     }
 
 
-
-
-
-
     @Test
     public void truthyIf(){
 
